@@ -1,1 +1,4 @@
-
+My wife loves learning lenguages and sometimes ask me to help her with some data procesesing. 
+The original .txt file have two columns "Columna" and "Frase". 
+The first one describe different phases categories and the second column are the phases.
+The project consist in re-organice the information and create and excel file where the columns name are the phrases categories.
