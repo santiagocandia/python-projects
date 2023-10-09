@@ -1,0 +1,641 @@
+﻿Columna;Frase
+note;გასული წელი gasuli tseli last year
+cloze;გასულ წელს
+sentence;მე გავემგზავრე იაპონიაში გასულ წელს.
+pronuntiation;me gavemgzavre iaponiashi gasul tsels.
+translation;I went to Japan last year.
+note;გასული თვე gasuli tve last month
+cloze;გასულ თვეს
+sentence;ისინი წავიდნენ ჩინეთში გასულ თვეს.
+pronuntiation;isini tsavidnen chinetshi gasul tves.
+translation;They went to China last month.
+note;მონახულება monakhuleba to visit
+cloze;მოვინახულეთ
+sentence;გასულ წელს, ჩვენ მოვინახულეთ ის მუზეუმი.
+pronuntiation;gasul tsels, chven movinakhulet is muzeumi.
+translation;Last year, we visited that museum.
+note;მოგზაურობა mogzauroba to travel
+cloze;იმოგზაურა
+sentence;მან იმოგზაურა საფრანგეთში გასულ კვირას.
+pronuntiation;man imogzaura safrangetshi gasul kviras.
+translation;She traveled to France last week.
+note;1
+cloze;მარტო
+sentence;მან მარტო იმოგზაურა აშშ-ში გასულ წელს.
+pronuntiation;man marto imogzaura ashsh-shi gasul tsels.
+translation;He traveled in the USA alone last year.
+note;1
+cloze;გუშინ
+sentence;გუშინ მან მოინახულა ორი მუზეუმი.
+pronuntiation;gushin man moinakhula ori muzeumi.
+translation;Yesterday, he visited two museums.
+note;1
+cloze;საზღვარგარეთ
+sentence;მე არასოდეს ვყოფილვარ საზღვარგარეთ.
+pronuntiation;me arasodes vkofilvar sazghvargaret.
+translation;I have never been abroad.
+note;დაგეგმვა dagegmva to plan
+cloze;დაგვიგეგმავს
+sentence;ჩვენ ჯერ არ დაგვიგეგმავს სად წავიდეთ.
+pronuntiation;chven jer ar dagvigegmavs sad tsavidet.
+translation;We have not planned where to go yet.
+note;გადაწყვეტა gadatskveta to decide
+cloze;გადამიწყვეტია
+sentence;მე ჯერ არ გადამიწყვეტია სად წავიდე.
+pronuntiation;me jer ar gadamitskvetia sad tsavide.
+translation;I have not decided where to go yet.
+note;შვებულება shvebuleba vacation
+cloze;დაუგეგმავს
+sentence;მას ჯერ არ დაუგეგმავს მისი შვებულება.
+pronuntiation;mas jer ar daugegmavs misi shvebuleba.
+translation;He has not planned for his vacation yet.
+note;1
+cloze;მოგზაურობა
+sentence;მას ჯერ არ დაუგეგმავს მისი მოგზაურობა.
+pronuntiation;mas jer ar daugegmavs misi mogzauroba.
+translation;She has not planned for her trip yet.
+note;ქირაობა qiraoba to rent
+cloze;დაქირავება
+sentence;მე უკვე დავგეგმე მანქანის დაქირავება.
+pronuntiation;me ukve davgegme manqanis daqiraveba.
+translation;I already planned to rent a car.
+note;1
+cloze;ტურისტი
+sentence;მე ტურისტი ვარ.
+pronuntiation;me turisti var.
+translation;I am a tourist.
+note;1
+cloze;ადგილი
+sentence;რომელი ადგილი უნდა მოვინახულო?
+pronuntiation;romeli adgili unda movinakhulo?
+translation;Which places should I visit?
+note;არჩევა archeva to choose
+cloze;ამოვირჩიო
+sentence;რომელი სამოგზაურო პროგრამა უნდა ამოვირჩიო?
+pronuntiation;romeli samogzauro programa unda amovirchio?
+translation;What travel program should I choose?
+note;გამოტოვება gamotoveba to miss (perder)
+cloze;გამოტოვო
+sentence;შენ არ უნდა გამოტოვო ამ ადგილის მონახულება.
+pronuntiation;shen ar unda gamotovo am adgilis monakhuleba.
+translation;You should not miss visiting this place.
+note;დაწყება datskeba to start
+cloze;დავიწყოთ
+sentence;როდის დავიწყოთ?
+pronuntiation;rodis davitskot?
+translation;When should we start?
+note;შესვლის საფასური shesvlis safasuri entrance fee
+cloze;შესვლის
+sentence;რამდენია შესვლის გადასახადი?
+pronuntiation;ramdenia shesvlis gadasakhadi?
+translation;How much is the entrance fee?
+note;1
+cloze;სურათი
+sentence;ეს სურათი ძალიან ლამაზია.
+pronuntiation;es surati dzalian lamazia.
+translation;This picture is very beautiful.
+note;ფოტოების გადაღება fotoebis gadagheba to take photos
+cloze;გადაიღო
+sentence;შენ შეგიძლია გადაიღო სურათები აქ.
+pronuntiation;shen shegidzlia gadaigho suratebi aq.
+translation;You can take photos here.
+note;დაშვება dashveba to allow
+cloze;გადაღება
+sentence;სურათების გადაღება აქ დაშვებული არ არის.
+pronuntiation;suratebis gadagheba aq dashvebuli ar aris.
+translation;Taking photos here is not allowed.
+note;შესვლა shesvla to enter
+cloze;შესვლის
+sentence;შენ არ გაქვს ამ ადგილზე შესვლის უფლება.
+pronuntiation;shen ar gaqvs am adgilze shesvlis ufleba.
+translation;You are not allowed to enter this place.
+note;შეხება shekheba to touch
+cloze;შეეხო
+sentence;შენ არ გაქვს უფლება შეეხო ამ სურათებს.
+pronuntiation;shen ar gaqvs ufleba sheekho am suratebs.
+translation;You are not allowed to touch the pictures.
+note;1
+cloze;გიდი
+sentence;გიდი ტურისტებს სურათების გადაღების უფლებას აძლევს.
+pronuntiation;gidi turistebs suratebis gadaghebis uflebas adzlevs.
+translation;The guide allows the tourists to take pictures.
+note;1
+cloze;სასტუმრო
+sentence;ჩვენ ძალიან მოგვწონს ეს სასტუმრო.
+pronuntiation;chven dzalian mogvtsons es sastumro.
+translation;We like this hotel very much.
+note;დარჩენა darchena to stay (pasar la noche)
+cloze;დარჩენა
+sentence;ჩვენ გვინდა აქ დარჩენა ორი ღამით.
+pronuntiation;chven givinda aq darchena ori ghamit.
+translation;We want to stay here for two nights.
+note;დარეგისტრირება daregistrireba check-in
+cloze;რეგისტრაციის
+sentence;რეგისტრაციის გავლის დრო არის შუადღის 2 საათის შემდეგ.
+pronuntiation;registratsiis gavlis dro aris shuadghis 2 saatis shemdeg.
+translation;Check-in time is after 2 pm.
+note;გასვლა gasvla check-out
+cloze;გასვლის
+sentence;გასვლის დრო არის შუადღის 2 საათამდე.
+pronuntiation;gasvlis dro aris shuadghis 2 saatamde.
+translation;Check-out time is before 2 pm.
+note;1
+cloze;რეგისტრატურა
+sentence;რეგისტრატურა ღიაა 24 საათი.
+pronuntiation;registratura ghiaa 24 saati.
+translation;Reception is open 24 hours.
+note;1
+cloze;სტუმარი
+sentence;ხუთი სტუმარი ელოდება რეგისტრაციას რეგისტრატურასთან.
+pronuntiation;khuti stumari elodeba registratsias registraturastan.
+translation;Five guests are waiting at the reception to check-in.
+note;დაჯავშნა dajavshna to reserve
+cloze;დავჯავშნო
+sentence;მე მინდა დავჯავშნო ორი ნომერი ოთხი ადამიანისათვის.
+pronuntiation;me minda davjavshno ori nomeri otkhi adamianisatvis.
+translation;I want to reserve two rooms for four people.
+note;ერთ ადგილიანი ნომერი ert adgiliani nomeri a single room
+cloze;ადგილიანი
+sentence;მე მინდა დავჯავშნო ერთ ადგილიანი ნომერი ერთი ღამით.
+pronuntiation;me minda davjavshno ert adgiliani nomeri erti ghamit.
+translation;I want to reserve a single room for one night.
+note;1
+cloze;ადგილიანი
+sentence;მე მინდა დავჯავშნო ორ ადგილიანი ნომერი ერთი კვირით.
+pronuntiation;me minda davjavshno or adgiliani nomeri erti kvirit.
+translation;I want to reserve a double room for one week.
+note;1
+cloze;დამატებითი საწოლი
+sentence;მე მინდა დამატებითი საწოლი ჩემი ქალიშვილისთვის.
+pronuntiation;me minda damatebiti satsoli chemi qalishvilistvis.
+translation;I want to have an extra bed for my daughter.
+note;1
+cloze;საერთო
+sentence;ეს სასტუმრო გვთავაზობს საერთო ნომრებს.
+pronuntiation;es sastumro gvtavazobs saerto nomrebs.
+translation;This hotel provides shared rooms.
+note;ობიექტი obieqti facility
+cloze;ობიექტებია
+sentence;სასტუმროში ბევრი ობიექტებია.
+pronuntiation;sastumroshi bevri obieqtebia.
+translation;There are many facilities in the hotel.
+note;1
+cloze;ოთახის გასაღები
+sentence;შემიძლია დავტოვო ოთახის გასაღები რეგისტრატურასთან?
+pronuntiation;shemidzlia davtovo otakhis gasagebi registraturastan?
+translation;Can I leave my room key at reception?
+note;1
+cloze;ბარგი
+sentence;შემიძლია აქ დავტოვო ბარგი?
+pronuntiation;shemidzlia aq davtovo bargi?
+translation;Can I leave my luggage here?
+note;1
+cloze;ინტერნეტი
+sentence;არის სასტუმროში ინტერნეტი?
+pronuntiation;ari sastumroshi interneti?
+translation;Does the hotel provide Internet?
+note;1
+cloze;საცურაო აუზი
+sentence;ამ სასტუმროს არ აქვს საცურაო აუზი.
+pronuntiation;am sastumros ar aqvs satsurao auzi.
+translation;This hotel does not have a swimming pool.
+note;1
+cloze;საავარიო გასასვლელი
+sentence;საავარიო გასასვლელი არის აქ.
+pronuntiation;saavario gasasvleli aris aq.
+translation;The emergency exit is here.
+note;1
+cloze;დამლაგებელი
+sentence;ეს დამლაგებელი აქ მუშაობს.
+pronuntiation;es damlagebeli aq mushaobs.
+translation;This maid is working here.
+note;დასვენება dasveneba to rest
+cloze;დავისვენო
+sentence;მე მინდა დავისვენო ჩემს ოთახში.
+pronuntiation;me minda davisveno chems otakhshi.
+translation;I want to rest in my room.
+note;გასუფთავება gasuftaveba to clean
+cloze;ასუფთავებს
+sentence;დამლაგებელი ასუფთავებს ოთახს.
+pronuntiation;damlagebeli asuftavebs otakhs.
+translation;A maid cleans the room.
+note;კორიდორი koridori the lobby
+cloze;კორიდორ
+sentence;შენი ბარგი კორიდორშია.
+pronuntiation;sheni bargi koridorshia.
+translation;Your luggage is in the lobby.
+note;1
+cloze;პასპორტი
+sentence;გთხოვთ მაჩვენოთ თქვენი პასპორტი.
+pronuntiation;gtkhovt machvenot tqveni pasporti.
+translation;Please show your passport.
+note;1
+cloze;ვიზა
+sentence;გთხოვთ მაჩვენოთ თქვენი ვიზა.
+pronuntiation;gtkhovt machvenot tqveni viza.
+translation;Please show your visa.
+note;1
+cloze;პირადობის მოწმობა
+sentence;გთხოვთ მაჩვენოთ თქვენი პირადობის მოწმობა.
+pronuntiation;gtkhovt machvenot tqveni piradobis motsmoba.
+translation;Please show your personal ID card.
+note;დადება dadeba to put
+cloze;დებს
+sentence;ის მაგიდაზე დებს მის ჩანთას.
+pronuntiation;is magidaze debs mis chantas.
+translation;He puts his bag on the table.
+note;1
+cloze;ბარგი
+sentence;გთხოვთ დადეთ თქვენი ბარგი აქ.
+pronuntiation;gtkhovt dadet tqveni bargi aq.
+translation;Please put your luggage here.
+note;დადება dadeba to lay
+cloze;დებს
+sentence;ის მაგიდაზე დებს თავის პასპორტს.
+pronuntiation;is magidaze debs tavis pasports.
+translation;She lays her passport on the table.
+note;ბარგის კონვეიერი bargis konveieri conveyor belt
+cloze;ბარგის კონვეიერზე
+sentence;ის დებს მის ჩანთას ბარგის კონვეიერზე.
+pronuntiation;is debs mis chantas bargis konveierze.
+translation;He lays his bag on the conveyor belt.
+note;გახდა gakhda to take off
+cloze;ვიხდი
+sentence;მე ვიხდი ჩემს ტყავის ფეხსაცმელებს.
+pronuntiation;me vikhdi chems tkavis fekhsatsmelebs.
+translation;I take off my leather shoes.
+note;ჩადება chadeba to put
+cloze;დებს
+sentence;ის დებს თავის წიგნებს მის ბარგში.
+pronuntiation;is debs tavis tsignebs mis bargshi.
+translation;She puts her books in her luggage.
+note;1
+cloze;კალათა kalata basket
+sentence;მათ ჩადეს შენი საათი კალათაში.
+pronuntiation;mat chades sheni saati kalatashi.
+translation;They put your watch in the basket.
+note;1
+cloze;ჩასხდომის ბარათი
+sentence;მე ჩავდე ჩემი ჩასხდომის ბარათი კალათაში.
+pronuntiation;me chavde chemi chaskhdomis barati kalatashi.
+translation;I put my boarding pass in the basket.
+note;1
+cloze;მიზანი
+sentence;მას არ აქვს აქ მოსვლის მიზანი.
+pronuntiation;mas ar aqvs aq mosvlis mizani.
+translation;He has no purpose to come here.
+note;ღირსშესანიშნაობა ghirsshesanishnaoba sightseeing
+cloze;ღირსშესანიშნაობები
+sentence;ღირსშესანიშნაობებისათვის.
+pronuntiation;ghirsshesanishnaobebisatvis.
+translation;For sightseeing
+note;ბიზნესი biznesi business
+cloze;ბიზნეს
+sentence;ბიზნეს მოგზაურობისათვის.
+pronuntiation;biznes mogzaurobisatvis.
+translation;For a business trip
+note;შევსება shevseba to fill
+cloze;საემიგრაციო ფორმა
+sentence;გთხოვთ შეავსოთ საემიგრაციო ფორმა.
+pronuntiation;gtkhovt sheavsot saemigratsio forma.
+translation;Please fill in the immigration form.
+note;გაყოლა gakola to follow
+cloze;გთხოვთ
+sentence;გთხოვთ გამომყვეთ.
+pronuntiation;gtkhovt gamomkvet.
+translation;Please follow me.
+note;აღება agheba to get
+cloze;ავიღებ
+sentence;ავიღებ ჩემს ბარგს.
+pronuntiation;avigheb chems bargs.
+translation;I will get my luggage.
+note;შეხვედრის ადგილი shekhvedris adgili meeting point
+cloze;შეხვედრის ადგილას
+sentence;ჩვენ შევხვდებით შეხვედრის ადგილას.
+pronuntiation;chven shevkhvdebit shekhvedris adgilas.
+translation;We will meet at the meeting point.
+note;1
+cloze;ნიშანი nishani sign
+sentence;მე გავყვები ნიშანს შეხვედრის ადგილისკენ.
+pronuntiation;me gavkvebi nishans shekhvedris adgilisken.
+translation;I will follow the sign to the meeting point.
+note;წამოყვანა tsamokvana to pick up
+cloze;წამოიყვანს
+sentence;ის მას წამოიყვანს აეროპორტიდან.
+pronuntiation;is mas tsamoikvans aeoroportidan.
+translation;He will pick her up from the airport.
+note;1
+cloze;ესკალატორი eskalatori escalator
+sentence;ის ჩავა ესკალატორზე.
+pronuntiation;is chava eskalatorze.
+translation;She will go down the escalator.
+note;იყო დანიშნული iko danishnuli to be engaged
+cloze;დაინიშნა
+sentence;ჩემი უფროსი და დაინიშნა ერთი თვის წინ.
+pronuntiation;chemi ufrosi da dainishna erti tvis tsin.
+translation;My older sister was engaged a month ago.
+note;იყო განქორწინებული iko ganqortsinebuli to be divorced
+cloze;განქორწინდა
+sentence;ის განქორწინდა სამი წლის წინ.
+pronuntiation;is ganqortsinda sami tslis tsin.
+translation;She divorced three years ago.
+note;დაცილება datsileba to separate
+cloze;დაცილდნენ
+sentence;ისინი დაცილდნენ ორი კვირის წინ.
+pronuntiation;isini datsildnen ori kviris tsin.
+translation;They separated two weeks ago.
+note;დაშორება dashoreba to break up
+cloze;დავშორდით
+sentence;ჩვენ დავშორდით ხუთი დღის წინ.
+pronuntiation;chven davshordit khuti dghis tsin.
+translation;We broke up five days ago.
+note;მეგობარი გოგო megobari gogo girlfriend
+cloze;მეგობარ
+sentence;ის უკვე დაშორდა მის მეგობარ გოგოს.
+pronuntiation;is ukve dashorda mis megobar gogos.
+translation;He broke up with his girlfriend already.
+note;იყო მარტოხელა iko martokhela to be single
+cloze;მარტოხელა
+sentence;ის მარტოხელა იყო 20 წელზე მეტი.
+pronuntiation;is martokhela iko 20 tselze meti.
+translation;He has been single for more than 20 years.
+note;იყო დაქორწინებული iko daqortsinebuli to be married
+cloze;დაქორწინებული
+sentence;ჩემი მშობლები დაქორწინებული არიან უკვე 30 წელზე მეტია.
+pronuntiation;chemi mshoblebi daqorwinebulebi arian ukve 30 tselze metia.
+translation;My parents have already been married for over 30 years.
+note;ცოდნა tsodna to know
+cloze;წელზე
+sentence;მე მას 10 წელზე მეტია ვიცნობდი.
+pronuntiation;me mas 10 tselze metia vicnobdi.
+translation;I have known him for over 10 years.
+note;1
+cloze;ერთად
+sentence;ჩემი მშობლები უკვე 40 წელზე მეტია ერთად ცხოვრობენ.
+pronuntiation;chemi mshoblebi ukve 40 tselze metia ertad tskhovroben.
+translation;My parents have been living together for over 40 years already.
+note;მეგობარი ბიჭი megobari bichi boyfriend
+cloze;მეგობარი ბიჭი
+sentence;ჩემი მეგობარი ბიჭი და მე ერთად 2 წელზე მეტი ვცხოვრობდით.
+pronuntiation;chemi megobari bichi da me ertad 2 tselze meti vtskhovrobdit.
+translation;My boyfriend and I have been living together for more than 2 years.
+note;1
+cloze;ქვრივი
+sentence;ის 5 წელზე მეტი იყო ქვრივი.
+pronuntiation;is 5 tselze meti iyo qvrivi.
+translation;She has been a widow for more than 5 years.
+note;ხელის თხოვნა khelis tkhovna to propose
+cloze;ხელი
+sentence;მან ხელი სთხოვა მას გუშინ ღამით, როდესაც ის ფილმს უყურებდა.
+pronuntiation;man kheli stkhova mas gushin ghamit, rodesats is films ukurebda.
+translation;He proposed to her when she was watching a movie last night.
+note;ტირილი tirili to cry
+cloze;იტირა
+sentence;მან იმდენი იტირა გუშინ ღამე.
+pronuntiation;man imdeni itira gushin ghame.
+translation;She cried so much last night.
+note;შეხვედრა shekhvedra to meet
+cloze;ერთმანეთს
+sentence;ჩვენ ერთმანეთს შევხვდით, როდესაც უნივერსიტეტში ვსწავლობდით.
+pronuntiation;chven shevkhvdit ertmanets, rodesats vstsavlobdit universitetshi.
+translation;We met while we were studying in the university.
+note;კამათი kamati to argue
+cloze;ვკამათობდით
+sentence;ჩვენ ვკამათობდით ჭამის დროს.
+pronuntiation;chven vkamatobdit chamis dros.
+translation;We argued while we were eating.
+note;გადასვლა gadasvla to move
+cloze;გადავიდოდნენ
+sentence;ისინი დაქორწინებული იყვნენ ერთი წელი მანამ, სანამ გადავიდოდნენ იაპონიაში.
+pronuntiation;isini daqortsinebuli ikvnen erti tseli manam, sanam gadavidodnen iaponiashi.
+translation;They were married for a year before they moved to Japan.
+note;თაფლობის თვე taflobis tve honeymoon
+cloze;თაფლობის
+sentence;ჩვენ გვქონდა თაფლობის თვე დაქორწინებიდან სამი დღის შემდეგ.
+pronuntiation;chven gvqonda taflobis tve daqortsinebidan sami dghis shemdeg.
+translation;We went on our honeymoon after we had been married for three days.
+note;1
+cloze;სიმართლე
+sentence;მე მას სიმართლე ვუთხარი სანამ დავშორდებოდი.
+pronuntiation;me mas simartle vutxari sanam davshordebodi.
+translation;I told him the truth before I broke up with him.
+note;მოტყუება motkueba to lie
+cloze;ატყუებს
+sentence;ის აღარასოდეს ატყუებს მას, მას შემდეგ რაც ხელი სთხოვა.
+pronuntiation;is agharasodes atkuebs mas, mas shemdeg rats kheli stkhova.
+translation;He never lies to her anymore after he proposed to her.
+note;პაემანი paemani to date
+cloze;პაემანი
+sentence;ის მარტოხელა იყო ხუთი წლის განმავლობაში, სანამ პაემანი ექნებოდა მასთან.
+pronuntiation;is martoxela iyo khuti tslis ganmavlobashi, sanam paemani eqneboda mastnan.
+translation;She had been single for five years before she dated him.
+note;მოძებნა modzebna to find
+cloze;ეძებს
+sentence;ის ეძებს მის ხელჩანთას.
+pronuntiation;is edzebs mis khelchantas.
+translation;She is looking for her hand bag.
+note;1
+cloze;დაკარგული dakarguli missing
+sentence;მისი ხელჩანთა დაკარგულია.
+pronuntiation;misi khelchanta dakargulia.
+translation;Her hand bag is missing.
+note;მოპარვა moparva to steal
+cloze;მოიპარა
+sentence;ვიღაცამ ჩემი ჩანთა მოიპარა.
+pronuntiation;vighatsam chemi chanta moipara.
+translation;Someone has stolen my bag.
+note;შველა shvela to help
+cloze;დამეხმარა
+sentence;ის დამეხმარა ჩემოდნის პოვნაში.
+pronuntiation;is damekhmara chemodnis povnashi.
+translation;He helped me find my suitcase.
+note;შეშინებული sheshinebul to be scared
+cloze;მეშ
+sentence;მეშინია.
+pronuntiation;meshinia
+translation;I'm scared.
+note;გადაუდებელი დახმრება gadaudebeli dakhmareba emergency
+cloze;ტელეფონის ნომერი
+sentence;გადაუდებელი სამსახურის ტელეფონის ნომერი.
+pronuntiation;gadaudebeli samsakhuris telefonis nomeri.
+translation;Emergency phone number.
+note;დარეკვა darekva to call
+cloze;დარეკა
+sentence;მან დარეკა გადაუდებელი სამსახურის ტელეფონის ნომერზე.
+pronuntiation;man dareka gadaudebeli samsakhuris telefonis nomerze.
+translation;He called the emergency phone number.
+note;1
+cloze;პოლიცია politsia police
+sentence;მან დაურეკა პოლიციას.
+pronuntiation;man daureka politsias.
+translation;He called the police.
+note;1
+cloze;საელჩო
+sentence;მან დაურეკა საელჩოს.
+pronuntiation;man daureka saelchos.
+translation;She called the embassy.
+note;განახლება ganakhleba to renew
+cloze;განვაახლე
+sentence;მე განვაახლე ჩემი პასპორტი.
+pronuntiation;me ganvaakhle chemi pasporti.
+translation;I renewed my passport
+note;ფრთხილად! frtkhilad! Be careful!
+cloze;ფრთხილად
+sentence;ფრთხილად იყავი.
+pronuntiation;frtkhilad ikavi.
+translation;Be careful.
+note;დაშავება dashaveba to get hurt
+cloze;დაშავდა
+sentence;ვიღაც დაშავდა.
+pronuntiation;vighats dashavda.
+translation;Someone is hurt.
+note;1
+cloze;უბედური შემთხვევა
+sentence;იქ უბედური შემთხვევა მოხდა.
+pronuntiation;iq ubeduri shemtkhveva mokhda.
+translation;There has been an accident.
+note;დარეკვა darekva to call
+cloze;დაურეკე
+sentence;დაურეკე პოლიციას!
+pronuntiation;daureke politsias!
+translation;Call the police!
+note;სასწრაფო დახმარება sastsrafo dakhmareba ambulance
+cloze;სასწრაფო დახმარება
+sentence;დაურეკე სასწრაფო დახმარებას!
+pronuntiation;daureke sastsrafo dakhmarebas!
+translation;Call an ambulance!
+note;1
+cloze;მკლავი
+sentence;მკლავი მტკივა.
+pronuntiation;mklavi mtkiva.
+translation;My arm hurts.
+note;მოტეხვა motekhva to break
+cloze;მკლავი
+sentence;მისი მკლავი მოტეხილია.
+pronuntiation;misi mklavi motekhilia.
+translation;His arm is broken.
+note;მოხსენება mokhseneba to report
+cloze;მოგახსენოთ
+sentence;მინდა მოგახსენოთ ავტოსაგზაო შემთხვევაზე.
+pronuntiation;minda mogakhsenot avtosagzao shemtkhvevaze.
+translation;I want to report a car accident.
+note;იყო სერიოზული iko seriozuli to be serious
+cloze;სერიოზული
+sentence;სერიოზული უბედური შემთხვევაა.
+pronuntiation;seriozuli ubeduri shemtkhvevaa.
+translation;It is a serious accident.
+note;გამოიყურებოდე gamoiyurebode to look like (parecer)
+cloze;ჩანს
+sentence;როგორც ჩანს, სერიოზული უბედური შემთხევაა.
+pronuntiation;rogorts chans, seriozuli ubeduri shemtkhvevaa.
+translation;It looks like a serious accident.
+note;1
+cloze;თავი
+sentence;მას თავი დაუზიანდა.
+pronuntiation;mas tavi dauzianda.
+translation;His head has been hurt.
+note;თავის ტკივილი tavis tkivili headache
+cloze;თავის ტკივილები
+sentence;მე მაქვს თავის ტკივილები გასული კვირიდან.
+pronuntiation;me maqvs tavis tkivilebi gasuli kviridan.
+translation;I have been having headaches since last week.
+note;სტრესის მიღება stresis migheba to be stressed
+cloze;სტრესი
+sentence;მე სტრესი მივიღე.
+pronuntiation;me stresi mivighe.
+translation;I was stressed.
+note;1
+cloze;ცხელება
+sentence;მას ჰქონდა ცხელება სამი დღე.
+pronuntiation;mas hqonda tskheleba sami dghe.
+translation;He had a fever for three days.
+note;დაწყება datskeba to start
+cloze;დაიწყო
+sentence;ის დაიწყო ერთი კვირის წინ.
+pronuntiation;is daitsko erti kviris tsin.
+translation;It started a week ago.
+note;პაციენტი patsienti Patient
+cloze;პაციენტს
+sentence;პაციენტს დაეწყო თავის ტკივილი გუშინ საღამოს 7 საათიდან.
+pronuntiation;patsients daetsko tavis tkivili gushin saghamos 7 saatidan.
+translation;The patient started to have headaches at 7 pm last night.
+note;კბილის ტკივილი kbilis tkivili Toothache
+cloze;კბილის
+sentence;მას ჰქონდა კბილის ტკივილი დილიდან.
+pronuntiation;mas hqonda kbilis tkivili dilidan.
+translation;He has been having a toothache since this morning.
+note;ღრძილები ghrdzilebi gums
+cloze;ღრძილები
+sentence;მას ჰქონდა ღრძილების ტკივილი მრავალი დღის განმავლობაში.
+pronuntiation;mas hqonda ghrdzilebis tkivili mravali dghis ganmavlobashi.
+translation;She has been having gum pain for many days.
+note;1
+cloze;სტომატოლოგი
+sentence;სტომატოლოგი დაწოლას მთხოვს.
+pronuntiation;stomatologi datsolas mtkhovs.
+translation;The dentist asks me to lie down.
+note;პირის გაღება piris gagheba to open one's mouth
+cloze;პირის გაღებას
+sentence;სტომატოლოგი პირის გაღებას მთხოვს.
+pronuntiation;stomatologi piris gaghebas mtkhovs.
+translation;The dentist asks me to open my mouth
+note;შემოწმება shemotsmeba to check
+cloze;სტომატოლოგს
+sentence;მე ვთხოვ სტომატოლოგს კბილების შემოწმებას.
+pronuntiation;me vtkhov stomatologs kbilebis shemotsmebas.
+translation;I ask the dentist to check my teeth.
+note;მუცლის ტკივილი mutslis tkivili Stomachache
+cloze;მუცლის ტკივილი
+sentence;მას ჰქონდა მუცლის ტკივილი გუშინდელი დღიდან.
+pronuntiation;mas hqonda mutslis tkivili gushindeli dghidan.
+translation;She has been having a stomachache since yesterday.
+note;1
+cloze;დიარეა
+sentence;შეიძლება დიარეა გაქვთ.
+pronuntiation;sheidzleba diarea gaqvt.
+translation;Maybe you have diarrhea.
+note;საკვებით მოწამვლა sakvebit motsamvla food poisoning
+cloze;საკვებით მოწამვლა
+sentence;შეიძლება საკვებით მოწამვლა გაქვთ.
+pronuntiation;sheidzleba sakvebit motsamvla gaqvt.
+translation;Maybe you have food poisoning.
+note;1
+cloze;გაფუჭებული
+sentence;შეიძლება თქვენი საკვები გაფუჭებული იყო.
+pronuntiation;sheidzleba tqveni sakvebi gafuchebuli iko.
+translation;Maybe your food was rotten.
+note;სიმპტომი simptomi symptom
+cloze;სიმპტომები
+sentence;სიმპტომები უარესდება.
+pronuntiation;simptomebi uaresdeba.
+translation;The symptoms are getting worse.
+note;ექიმი eqimi Doctor
+cloze;ექიმად
+sentence;ის მუშაობდა ექიმად 2000 წლიდან.
+pronuntiation;is mushaobda eqimad 2000 -dan.
+translation;He has been working as a doctor since 2000.
+note;ექიმთან მისვლა eqimtan misvla to see the doctor
+cloze;ექიმთან მისვლა
+sentence;მე მჭირდება ექიმთან მისვლა.
+pronuntiation;me mchirdeba eqimtan misvla.
+translation;I need to see the doctor.
+note;1
+cloze;მედდა
+sentence;პაციენტს სჭირდება მედდასთან დალაპარაკება.
+pronuntiation;patsients schirdeba meddastan dalaparakeba.
+translation;The patient needs to speak to the nurse.
+note;ჰოსპიტალი hospitali Hospital
+cloze;ჰოსპიტალში
+sentence;მე მჭირდება ჰოსპიტალში წასვლა ექიმის სანახავად.
+pronuntiation;me mchirdeba hospitalshi tsasvla eqimis sanakhavad.
+translation;I need to go to the hospital to see the doctor.
+note;წამლები tsamlebi drugs
+cloze;წამლების
+sentence;მე მჭირდება წამლების ყიდვა.
+pronuntiation;me mchirdeba tsamlebis kidva.
+translation;I need to buy drugs.
+note;აფთიაქი aftiaqi pharmacy
+cloze;აფთიაქში
+sentence;მე მჭირდება აფთიაქში წასვლა წამლების საყიდლად.
+pronuntiation;me mchirdeba aftiaqshi tsasvla tsamlebis sakidlad.
+translation;I need to go to the pharmacy to buy drugs.
