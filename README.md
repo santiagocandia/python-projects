@@ -1,2 +1,2 @@
 # Everyday-Python-projects
-Data analytics projects based on everyday tasks
+Data analytics projects based on daily tasks
